@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bdate</string>
+    <string name="resend_code"><strong>Resend code</strong></string>
 </resources>
